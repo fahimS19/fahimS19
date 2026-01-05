@@ -33,7 +33,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 - Built using **Next.js, Node.js, Express, Socket.IO**
 - Authentication and user-based chats
 - Scalable backend architecture
-
+I am working on to create a live link for this project . Will be deploying it to aws using ec2 instance.
 🔗 Repo: https://github.com/fahimS19/realTimeChatThread
 
 
