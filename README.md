@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Aspiring+Software+Engineer;JavaScript+%7C+React+%7C+Node.js+%7C+Python;Building+web+apps+and+learning+every+day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;JavaScript+%7C+React+%7C+Node.js+%7C+Python;Building+web+apps+and+learning+every+day!" />
 </p>
+
 
 ---
 
@@ -9,7 +10,8 @@
 
 Aspiring Software Engineer passionate about building impactful web applications.<br>
 Skilled in **JavaScript, Python, React, Node.js, Express, and Next.js**.<br>
-Excited to learn, grow, and contribute to innovative projects—stay tuned for more updates soon!
+I enjoy turning ideas into real-world applications and continuously improving my problem-solving and system design skills.
+
 
 ---
 
@@ -23,23 +25,23 @@ Excited to learn, grow, and contribute to innovative projects—stay tuned for m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimS19&show_icons=true&theme=radical" alt="fahimS19's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimS19&theme=radical" alt="fahimS19's GitHub Streak"/>
-</p>
-
 ---
 
 ## 🌱 Projects
+### 🗨️ Real Time Chat & Thread App
+- Real-time messaging with threads
+- Built using **Next.js, Node.js, Express, Socket.IO**
+- Authentication and user-based chats
+- Scalable backend architecture
 
-I’ll be adding some cool projects soon. Stay tuned!
+🔗 Repo: https://github.com/fahimS19/realTimeChatThread
+
 
 ---
+## 📚 Currently Learning
+- Advanced React patterns
+- Backend scalability with Node.js and Express.js
+- Docker
 
 ## 📫 Connect with Me
 
@@ -48,6 +50,4 @@ I’ll be adding some cool projects soon. Stay tuned!
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahimS19" alt="visitor badge"/>
-</p>
+
