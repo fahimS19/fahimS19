@@ -15,7 +15,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 
 ---
-## 🧠 Skills & Tools That I Have Expertise In
+## 🛠️ Skills & Tools That I Have Expertise In
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" style="margin-right:12px;"/>
