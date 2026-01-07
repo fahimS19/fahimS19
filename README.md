@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;JavaScript+%7C+React+%7C+Node.js+%7C+Python;Building+web+apps+and+learning+every+day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Full-Stack+AI+%26+ML+Engineer;JavaScript+%7C+React+%7C+Node.js+%7C+Python;Building+web+apps+and+learning+every+day!" />
 </p>
+
 
 
 ---
