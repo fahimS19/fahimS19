@@ -62,7 +62,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 ## 📫 Connect with Me
 
-<a href="mailto:fahimahmedshahensha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fahimahmedshahensha@gmail.com)
 ---
 
 
