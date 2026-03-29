@@ -15,7 +15,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 
 ---
-## 🛠️ Skills & Tools That I Have Expertise In
+## 🛠️ Languages & Tools
 
 <p>
   <!-- Languages -->
