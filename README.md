@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-Aspiring Software Engineer passionate about building impactful web applications.<br>
-Skilled in **JavaScript, Python, React, Node.js, Express, and Next.js**.<br>
-I enjoy turning ideas into real-world applications and continuously improving my problem-solving and system design skills.
+Aspiring Software Engineer passionate about building scalable backend systems and modern web applications.<br>
+Skilled in **JavaScript, TypeScript, Python, React, Next.js, Node.js, and Express.js**.<br>
+Currently exploring **Linux, FastAPI, backend engineering principles, and system design** while building real-world projects and continuously improving my problem-solving skills.
 
 
 ---
@@ -32,22 +32,37 @@ I enjoy turning ideas into real-world applications and continuously improving my
 </p>
 <br clear="left"/>
 
+
 ---
 
 ## 🌱 Projects
-### 🗨️ Real Time Chat & Thread App
-- Real-time messaging with threads
-- Built using **Next.js, Node.js, Express, Socket.IO**
-- Authentication and user-based chats
-- Scalable backend architecture
+
+### 📝 Collaborative Note-Taking App
+- Real-time collaborative note editing and sharing
+- Built with **Next.js, Node.js, Express.js, MongoDB**
+- Group-based note management with secure authentication
+- RESTful APIs, cookie-based authentication, and cross-origin session handling
+- Deployed on **Vercel** (frontend) and **Render** (backend)
+
+🔗 Live Demo: https://collaborative-notes-cyan.vercel.app/
+
+### 🗨️ Real-Time Chat & Thread App
+- Real-time messaging with threaded conversations
+- Built using **Next.js, Node.js, Express.js, Socket.IO**
+- User authentication and persistent chat system
+- Designed with a scalable backend architecture
 
 🔗 Repo: https://github.com/fahimS19/realTimeChatThread
 
+---
+
+## 📚 Currently Learning
+
+- Linux and command-line fundamentals
+- FastAPI for building high-performance backend APIs
+- Backend engineering principles (system design, scalability, API design, databases, and architecture)
 
 ---
-## 📚 Currently Learning
-- Advanced React patterns
-- Backend scalability with Node.js and Express.js
 
 
 ## 📫 Connect with Me
