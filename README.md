@@ -1,4 +1,4 @@
-# Hi, I'm Fahim Ahmed 👋
+# Hi, I'm Fahim👋
 
 ### Cloud & DevOps Engineer | Backend Engineering | Infrastructure Automation
 
