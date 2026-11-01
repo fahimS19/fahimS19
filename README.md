@@ -1,73 +1,114 @@
-<h1 align="center">Hi 👋, I'm Fahim</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Full-Stack+AI+%26+ML+Engineer;JavaScript+%7C+React+%7C+Node.js+%7C+Python;Building+web+apps+and+learning+every+day!" />
-</p>
+# Hi, I'm Fahim Ahmed 👋
 
+### Cloud & DevOps Engineer | Backend Engineering | Infrastructure Automation
 
+I build and deploy applications, automate infrastructure, and explore the engineering practices behind reliable and scalable systems.
 
----
+My background spans full-stack and backend development, with a growing focus on **Cloud Computing, DevOps, Infrastructure as Code, and CI/CD automation**.
 
-## 🚀 About Me
-
-Aspiring Software Engineer passionate about building scalable backend systems and modern web applications.<br>
-Skilled in **JavaScript, TypeScript, Python, React, Next.js, Node.js, and Express.js**.<br>
-Currently exploring **Linux, FastAPI, backend engineering principles, and system design** while building real-world projects and continuously improving my problem-solving skills.
-
-
----
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="42" height="42" alt="R" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" height="42" alt="Redux" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js" align="left" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" align="left" />
-</p>
-<br clear="left"/>
-
+Currently working with **AWS, Linux, Docker, Jenkins, and Terraform**, while expanding my knowledge of Kubernetes and cloud-native technologies.
 
 ---
 
-## 🌱 Projects
+## Technical Stack
 
-### 📝 Collaborative Note-Taking App
-- Real-time collaborative note editing and sharing
-- Built with **Next.js, Node.js, Express.js, MongoDB**
-- Group-based note management with secure authentication
-- RESTful APIs, cookie-based authentication, and cross-origin session handling
-- Deployed on **Vercel** (frontend) and **Render** (backend)
+**Cloud & Infrastructure**
 
-🔗 Live Demo: https://collaborative-notes-cyan.vercel.app/
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 🗨️ Real-Time Chat & Thread App
-- Real-time messaging with threaded conversations
-- Built using **Next.js, Node.js, Express.js, Socket.IO**
-- User authentication and persistent chat system
-- Designed with a scalable backend architecture
+**CI/CD & Version Control**
 
-🔗 Repo: https://github.com/fahimS19/realTimeChatThread
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Backend & Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## Featured Projects
 
-- Linux and command-line fundamentals
-- FastAPI for building high-performance backend APIs
-- Backend engineering principles (system design, scalability, API design, databases, and architecture)
+### AWS Infrastructure Provisioning with Terraform
+
+Infrastructure as Code project focused on provisioning and managing AWS resources using reusable Terraform configurations.
+
+- Provisioned AWS resources using Terraform.
+- Implemented reusable configurations with variables, locals, outputs, and resource iteration.
+- Used `count`, `for_each`, conditional expressions, and `try()` for flexible infrastructure definitions.
+- Organized environment-specific configurations for development, staging, and production.
+- Implemented Terraform workflows including initialization, validation, planning, applying, and destruction.
+
+**Technologies:** AWS · Terraform · HCL · GitHub Actions
+
+### Jenkins CI/CD Pipeline – Job Portal
+
+A CI/CD automation project for a full-stack React-based Job Portal application.
+
+- Built Jenkins pipelines to automate application build and deployment workflows.
+- Integrated Docker to containerize frontend and backend applications.
+- Implemented image tagging and version management using Jenkins build numbers.
+- Integrated static analysis and security scanning tools, including Semgrep, Trivy, and Gitleaks.
+- Configured Jenkins credentials, role-based access, and webhook-based pipeline triggering.
+
+**Technologies:** Jenkins · Docker · Linux · GitHub · Semgrep · Trivy · Gitleaks
+
+### Collaborative Note-Taking Application
+
+A full-stack application supporting collaborative note management and secure authentication.
+
+- Developed REST APIs using Node.js and Express.js.
+- Implemented cookie-based authentication and cross-origin session handling.
+- Built the frontend with Next.js.
+- Deployed frontend and backend services independently.
+
+**Technologies:** Next.js · Node.js · Express.js · MongoDB
+
+[Live Demo](https://collaborative-notes-cyan.vercel.app/)
+
+### Real-Time Chat & Thread Application
+
+A real-time messaging application featuring threaded conversations and persistent chat functionality.
+
+- Implemented real-time communication using Socket.IO.
+- Developed backend APIs and authentication.
+- Designed persistent messaging functionality with a scalable backend structure.
+
+**Technologies:** Next.js · Node.js · Express.js · Socket.IO · MongoDB
+
+[Source Code](https://github.com/fahimS19/realTimeChatThread)
 
 ---
 
+## Currently Exploring
 
-## 📫 Connect with Me
+- **Kubernetes:** Container orchestration, deployments, services, and cluster architecture.
+- **AWS:** Cloud infrastructure, networking, IAM, storage, and compute services.
+- **Linux:** System administration, processes, permissions, networking, and shell scripting.
+- **DevOps:** CI/CD automation, containerization, infrastructure provisioning, and deployment strategies.
+- **Cloud-Native Engineering:** Scalable infrastructure, observability, and reliable application delivery.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fahimahmedshahensha@gmail.com)
 ---
 
+## Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fahimahmedshahensha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fahimS19)
 
