@@ -13,22 +13,17 @@ I'm an **aspiring Cloud & DevOps Engineer** with a background in backend and ful
 
 <table align="center">
   <tr>
-    <td align="center" width="250"><b>Cloud Platforms</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250"><b>Infrastructure as Code</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="250"><b>Containers &amp; Orchestration</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Cloud &amp; IaC</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -61,7 +56,7 @@ I'm an **aspiring Cloud & DevOps Engineer** with a background in backend and ful
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
