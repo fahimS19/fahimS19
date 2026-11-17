@@ -1,114 +1,210 @@
-# Hi, I'm Fahim👋
 
-### Cloud & DevOps Engineer | Backend Engineering | Infrastructure Automation
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&random=false&width=750&lines=Hey+%F0%9F%91%8B+I'm+Fahim;Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Infrastructure+as+Code;CI%2FCD+Automation+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Containerization;Backend+Development+%7C+Node.js+%7C+Python" alt="Typing SVG" />
+</h1>
 
-I build and deploy applications, automate infrastructure, and explore the engineering practices behind reliable and scalable systems.
+<p align="center">
+  <a href="mailto:fahimahmedshahensha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/fahimS19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-My background spans full-stack and backend development, with a growing focus on **Cloud Computing, DevOps, Infrastructure as Code, and CI/CD automation**.
-
-Currently working with **AWS, Linux, Docker, Jenkins, and Terraform**, while expanding my knowledge of Kubernetes and cloud-native technologies.
-
----
-
-## Technical Stack
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**CI/CD & Version Control**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Backend & Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahimS19&style=flat-square&color=4493F8" />
+  <img src="https://img.shields.io/github/followers/fahimS19?style=flat-square&color=4493F8" />
+</p>
 
 ---
 
-## Featured Projects
+### 🧑‍💻 About Me
 
-### Jenkins CI/CD Pipeline – Job Portal
+I'm an **aspiring Cloud & DevOps Engineer** with a background in backend and full-stack development.
 
-A CI/CD automation project for a full-stack React-based Job Portal application.
+I enjoy understanding how applications are built, deployed, and maintained — from developing backend services to containerizing applications and automating cloud infrastructure.
+
+Currently focusing on:
+
+- ☁️ **Cloud Computing:** AWS services, networking, IAM, and cloud infrastructure.
+- ⚙️ **DevOps & CI/CD:** Jenkins, GitHub Actions, and automated deployment workflows.
+- 🏗️ **Infrastructure as Code:** Terraform and reusable infrastructure configurations.
+- 🐳 **Containerization:** Docker, container networking, and Kubernetes fundamentals.
+- 📊 **Observability:** Exploring Prometheus, Grafana, and Loki.
+- 🖥️ **Linux:** System administration, processes, permissions, and shell scripting.
+
+My goal is to build reliable, scalable infrastructure and develop a strong understanding of modern cloud-native engineering.
+
+---
+
+### ⚒️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>Cloud Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Infrastructure as Code</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Containers &amp; Orchestration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>CI/CD &amp; Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Monitoring &amp; Observability</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Loki-F0A000?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Operating Systems &amp; VCS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Backend &amp; Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Frontend Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. Jenkins CI/CD Pipeline – Job Portal
+
+A CI/CD automation project demonstrating the build, containerization, security scanning, and deployment of a full-stack React-based Job Portal application.
 
 - Built Jenkins pipelines to automate application build and deployment workflows.
-- Integrated Docker to containerize frontend and backend applications.
-- Implemented image tagging and version management using Jenkins build numbers.
-- Integrated static analysis and security scanning tools, including Semgrep, Trivy, and Gitleaks.
-- Configured Jenkins credentials, role-based access, and webhook-based pipeline triggering.
+- Containerized frontend and backend applications using Docker.
+- Implemented Docker image tagging and version management using Jenkins build numbers.
+- Integrated Semgrep, Trivy, and Gitleaks for security and vulnerability scanning.
+- Configured Jenkins credentials and role-based access control.
+- Implemented GitHub webhook-based pipeline triggering.
 
-**Technologies:** Jenkins · Docker · Linux · GitHub · Semgrep · Trivy · Gitleaks
+**Tech Stack:** Jenkins · Docker · Linux · GitHub · Semgrep · Trivy · Gitleaks
 
-### AWS Infrastructure Provisioning with Terraform
+🔗 [Source Code](https://github.com/fahimS19/job-portal-jenkins-final)
 
-Infrastructure as Code project focused on provisioning and managing AWS resources using reusable Terraform configurations.
+---
+
+#### 2. AWS Infrastructure Provisioning with Terraform
+
+An Infrastructure as Code project demonstrating automated AWS resource provisioning and environment-specific infrastructure management.
 
 - Provisioned AWS resources using Terraform.
-- Implemented reusable configurations with variables, locals, outputs, and resource iteration.
-- Used `count`, `for_each`, conditional expressions, and `try()` for flexible infrastructure definitions.
-- Organized environment-specific configurations for development, staging, and production.
-- Implemented Terraform workflows including initialization, validation, planning, applying, and destruction.
+- Used variables, locals, outputs, and reusable configurations.
+- Implemented `count`, `for_each`, conditional expressions, and `try()`.
+- Organized configurations for development, staging, and production environments.
+- Practiced the complete Terraform workflow: initialization, validation, planning, applying, and destroying infrastructure.
+- Integrated GitHub Actions for Terraform formatting and validation.
 
-**Technologies:** AWS · Terraform · HCL · GitHub Actions
+**Tech Stack:** AWS · Terraform · HCL · GitHub Actions
 
-### Collaborative Note-Taking Application
+🔗 [Source Code](YOUR_TERRAFORM_REPOSITORY_URL)
+
+---
+
+#### 3. Collaborative Note-Taking Application
 
 A full-stack application supporting collaborative note management and secure authentication.
 
 - Developed REST APIs using Node.js and Express.js.
 - Implemented cookie-based authentication and cross-origin session handling.
-- Built the frontend with Next.js.
+- Built the frontend using Next.js.
 - Deployed frontend and backend services independently.
 
-**Technologies:** Next.js · Node.js · Express.js · MongoDB
+**Tech Stack:** Next.js · Node.js · Express.js · MongoDB
 
-[Live Demo](https://collaborative-notes-cyan.vercel.app/)
+🔗 [Live Demo](https://collaborative-notes-cyan.vercel.app/)
 
-### Real-Time Chat & Thread Application
+---
 
-A real-time messaging application featuring threaded conversations and persistent chat functionality.
+#### 4. Real-Time Chat & Thread Application
+
+A real-time messaging application featuring threaded conversations and persistent messaging functionality.
 
 - Implemented real-time communication using Socket.IO.
 - Developed backend APIs and authentication.
-- Designed persistent messaging functionality with a scalable backend structure.
+- Designed persistent messaging functionality with MongoDB.
 
-**Technologies:** Next.js · Node.js · Express.js · Socket.IO · MongoDB
+**Tech Stack:** Next.js · Node.js · Express.js · Socket.IO · MongoDB
 
-[Source Code](https://github.com/fahimS19/realTimeChatThread)
+🔗 [Source Code](https://github.com/fahimS19/realTimeChatThread)
 
 ---
 
-## Currently Exploring
+### 📚 Currently Learning
 
 - **Kubernetes:** Container orchestration, deployments, services, and cluster architecture.
 - **AWS:** Cloud infrastructure, networking, IAM, storage, and compute services.
-- **Linux:** System administration, processes, permissions, networking, and shell scripting.
-- **DevOps:** CI/CD automation, containerization, infrastructure provisioning, and deployment strategies.
-- **Cloud-Native Engineering:** Scalable infrastructure, observability, and reliable application delivery.
+- **Linux & OS Fundamentals:** Processes, memory management, permissions, networking, and shell scripting.
+- **Infrastructure as Code:** Terraform modules, reusable configurations, and infrastructure automation.
+- **Observability:** Metrics, logs, monitoring, and visualization with Prometheus, Grafana, and Loki.
+- **DevOps Practices:** CI/CD pipelines, containerization, security scanning, and deployment strategies.
 
 ---
 
-## Let's Connect
+### 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fahimahmedshahensha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fahimS19)
+<p align="center">
+  <a href="mailto:fahimahmedshahensha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/fahimS19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <i>Always learning, building, and exploring better ways to engineer reliable systems.</i>
+</p>
