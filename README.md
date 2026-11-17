@@ -120,7 +120,7 @@ An Infrastructure as Code project demonstrating automated AWS resource provision
 
 **Tech Stack:** AWS · Terraform · HCL · GitHub Actions
 
-🔗 [Source Code](YOUR_TERRAFORM_REPOSITORY_URL)
+🔗 [Source Code](https://github.com/fahimS19/aws-terraform-provisioning)
 
 ---
 
