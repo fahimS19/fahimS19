@@ -46,18 +46,6 @@ Currently working with **AWS, Linux, Docker, Jenkins, and Terraform**, while exp
 
 ## Featured Projects
 
-### AWS Infrastructure Provisioning with Terraform
-
-Infrastructure as Code project focused on provisioning and managing AWS resources using reusable Terraform configurations.
-
-- Provisioned AWS resources using Terraform.
-- Implemented reusable configurations with variables, locals, outputs, and resource iteration.
-- Used `count`, `for_each`, conditional expressions, and `try()` for flexible infrastructure definitions.
-- Organized environment-specific configurations for development, staging, and production.
-- Implemented Terraform workflows including initialization, validation, planning, applying, and destruction.
-
-**Technologies:** AWS · Terraform · HCL · GitHub Actions
-
 ### Jenkins CI/CD Pipeline – Job Portal
 
 A CI/CD automation project for a full-stack React-based Job Portal application.
@@ -69,6 +57,18 @@ A CI/CD automation project for a full-stack React-based Job Portal application.
 - Configured Jenkins credentials, role-based access, and webhook-based pipeline triggering.
 
 **Technologies:** Jenkins · Docker · Linux · GitHub · Semgrep · Trivy · Gitleaks
+
+### AWS Infrastructure Provisioning with Terraform
+
+Infrastructure as Code project focused on provisioning and managing AWS resources using reusable Terraform configurations.
+
+- Provisioned AWS resources using Terraform.
+- Implemented reusable configurations with variables, locals, outputs, and resource iteration.
+- Used `count`, `for_each`, conditional expressions, and `try()` for flexible infrastructure definitions.
+- Organized environment-specific configurations for development, staging, and production.
+- Implemented Terraform workflows including initialization, validation, planning, applying, and destruction.
+
+**Technologies:** AWS · Terraform · HCL · GitHub Actions
 
 ### Collaborative Note-Taking Application
 
