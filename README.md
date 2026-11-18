@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm an **aspiring Cloud & DevOps Engineer** with a background in backend and full-stack development.I enjoy understanding how applications are built, deployed, and maintained — from developing backend services to containerizing applications and automating cloud infrastructure.
+I'm an **aspiring Cloud & DevOps Engineer** with a background in full-stack development.I enjoy understanding how applications are built, deployed, and maintained from developing backend services to containerizing applications and automating cloud infrastructure. Trying to grow an obsession to know things work under the hood at operating system levels
 
 ---
 
@@ -155,13 +155,9 @@ A real-time messaging application featuring threaded conversations and persisten
 
 ### 📚 Currently Learning
 
-- **Kubernetes:** Container orchestration, deployments, services, and cluster architecture.
-- **AWS:** Cloud infrastructure, networking, IAM, storage, and compute services.
-- **Linux & OS Fundamentals:** Processes, memory management, permissions, networking, and shell scripting.
-- **Infrastructure as Code:** Terraform modules, reusable configurations, and infrastructure automation.
-- **Observability:** Metrics, logs, monitoring, and visualization with Prometheus, Grafana, and Loki.
-- **DevOps Practices:** CI/CD pipelines, containerization, security scanning, and deployment strategies.
-
+- **Kubernetes:**
+- **AWS**
+- **Data Engineering**
 ---
 
 ### 🤝 Let's Connect
